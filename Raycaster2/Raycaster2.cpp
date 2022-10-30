@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello CMake." << endl;
-	cout << "123" << endl;
+	cout << "Hello CMake." << endl;        //сделал коммит
+	cout << "123" << endl;					//IASJNDFISJANDSANSADANSDANNASO
 	return 0;
 }
